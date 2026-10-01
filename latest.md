@@ -1,6 +1,6 @@
 # Latest Metal Prices
 
-Collected at: 2026-09-30T09:14:01.417Z
+Collected at: 2026-10-01T09:41:31.370Z
 
 | City | Commodity | Price | Currency | Unit | Status | Market time | Source | Rise/Fall |
 | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
@@ -8,5 +8,5 @@ Collected at: 2026-09-30T09:14:01.417Z
 | Dandong | GOLD | N/A | USD | gram | error | N/A | Stooq XAU/USD spot fallback | N/A |
 | Shanghai | COPPER | N/A | USD | metric_ton | error | N/A | Stooq HG copper futures fallback | N/A |
 | Dandong | COPPER | N/A | USD | metric_ton | error | N/A | Stooq HG copper futures fallback | N/A |
-| Shanghai | WC | 121.18 | USD | kg | ok | N/A | SMM Tungsten Carbide Powder Price | rise (+0.04) |
-| Dandong | WC | 121.18 | USD | kg | ok | N/A | SMM Tungsten Carbide Powder Price | rise (+0.04) |
+| Shanghai | WC | 121.18 | USD | kg | ok | N/A | SMM Tungsten Carbide Powder Price | flat |
+| Dandong | WC | 121.18 | USD | kg | ok | N/A | SMM Tungsten Carbide Powder Price | flat |
