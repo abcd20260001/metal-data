@@ -1,6 +1,6 @@
 # Latest Metal Prices
 
-Collected at: 2026-10-06T09:41:59.274Z
+Collected at: 2026-10-07T09:40:05.486Z
 
 | City | Commodity | Price | Currency | Unit | Status | Market time | Source | Rise/Fall |
 | --- | --- | ---: | --- | --- | --- | --- | --- | --- |
